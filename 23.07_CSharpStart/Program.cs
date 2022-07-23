@@ -20,6 +20,7 @@ namespace CSharp
             {
                 Console.WriteLine("a + b = " + c);
             }
+            Console.WriteLine("new commit");
         }
     }
 }
